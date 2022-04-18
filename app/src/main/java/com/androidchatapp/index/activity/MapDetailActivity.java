@@ -51,23 +51,23 @@ public class MapDetailActivity extends AppCompatActivity {
         if (id.equals("1")) {
 
             tvTitle.setText("House1");
-            tvMain.setText("100,000$");
+            tvMain.setText("1000$ Per month");
         } else if (id.equals("2")) {
 
             tvTitle.setText("House2");
-            tvMain.setText("300,000$");
+            tvMain.setText("1200$ Per month");
         } else if (id.equals("3")) {
 
             tvTitle.setText("House3");
-            tvMain.setText("500,000$");
+            tvMain.setText("800$ Per month");
         } else if (id.equals("4")) {
 
             tvTitle.setText("House4");
-            tvMain.setText("150,000$");
+            tvMain.setText("900$ Per month");
         } else {
 
             tvTitle.setText("House5");
-            tvMain.setText("310,000$");
+            tvMain.setText("1500$ Per month");
         }
     }
 }

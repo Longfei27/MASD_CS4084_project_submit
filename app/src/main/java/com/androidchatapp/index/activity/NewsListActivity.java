@@ -41,7 +41,7 @@ public class NewsListActivity extends AppCompatActivity {
         NewsBean video2 = new NewsBean();
         video2.setTitle("advertise House10");
         video2.setSecondTitle("House07 just 150,000$ now!");
-        video2.setVideoPath("Luton");
+        video2.setVideoPath("London");
         vbl.add(video2);
 
         NewsBean video3 = new NewsBean();
